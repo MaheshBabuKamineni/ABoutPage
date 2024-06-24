@@ -1,11 +1,10 @@
-# ABoutPage
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gopikrishna Pavuluri
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahesh Babu Kamineni
 ============================================================================================================================================
 I'm Mahesh Babu Kamineni, a Computer Science master’s candidate specialized in Intelligent Systems, Software Engineering, and Data Science, with a graduation year of 2023 December.
 
 * 🌍  I'm based in Arlington, Texas
 * 🖥️  See my portfolio at [maheshbabu.tech](https://maheshkamineni35.wixsite.com/mbsite)
-* ✉️  You can contact me at [gopikrsmscs@gmail.com](mailto:mahesh187.mb@gmail.com)
+* ✉️  You can contact me at [mahesh187.mb@gmail.com](mailto:mahesh187.mb@gmail.com)
 * 🚀  I'm currently working on [Generative AI Projects](https://github.com/MaheshBabuKamineni/)
 * 🧠  I'm learning Transformers and Recommendation Systems.
 * ⚡  I am currently looking for Generative AI, Data Science and Fullstack/Backend Engineer Roles.
